@@ -217,9 +217,9 @@ Get updates on Devtron's development and chat with project maintainers, contribu
 </a>
 </p>
 
-## :handshake: Contribute
+## :handshake: Contribute:
  
-Check out our [contributing guidelines](CONTRIBUTING.md). Included, are directions for opening issues, coding standards, and notes on our development processes. We deeply appreciate your contribution.
+Check out our [contributing guidelines](CONTRIBUTING.md). Included, are directions for opening issues, coding standards, and notes on our development processes. We deeply appreciate your contribution.It will give you real-world exposure and community recognition to learning how to collaborate while networking and upskilling. 
  
 Please look at our [community contributions](COMMUNITY_CONTRIBUTIONS.md) and feel free to create a video or blog around Devtron and add your valuable contribution to the list.
  
